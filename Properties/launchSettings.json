@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "VizsgaAsztali": {
+      "commandName": "Project"
+    },
+    "KonyvtarAsztaliConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}
